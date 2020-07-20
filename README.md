@@ -6,7 +6,7 @@
 
 - C# .Net
 - SqlServer, MySql e firebase
-- JavaScript
+- JavaScript e TypeScript
 - ReactJs e React Native
 - NodeJs
 - GraphQl
