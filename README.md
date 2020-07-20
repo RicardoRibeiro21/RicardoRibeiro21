@@ -1,9 +1,13 @@
 ### Seja bem-vindo! 👋
 
 **Ricardo Ribeiro Lopes**
+
 **19 anos**
+
 **Suzano - SP**
+
 **Desenvolvedor FullStack**
+
 - C# .Net
 - SqlServer, MySql e firebase
 - JavaScript
