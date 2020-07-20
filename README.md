@@ -1,4 +1,8 @@
-### Hi there 👋
+### Seja bem-vindo! 👋
+
+### Ricardo Ribeiro Lopes
+### 19 anos
+### Suzano - SP
 
 <!--
 **RicardoRibeiro21/RicardoRibeiro21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
