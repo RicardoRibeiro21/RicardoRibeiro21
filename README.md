@@ -1,10 +1,6 @@
 ### Seja bem-vindo! 👋
 
-**Ricardo Ribeiro Lopes**
-
-**19 anos**
-
-**Suzano - SP**
+**Ricardo Ribeiro Lopes, 19 anos, Suzano - SP (Brasil)**
 
 **Desenvolvedor FullStack**
 
