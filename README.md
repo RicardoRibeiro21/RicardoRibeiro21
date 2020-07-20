@@ -1,8 +1,16 @@
 ### Seja bem-vindo! 👋
 
-### Ricardo Ribeiro Lopes
-### 19 anos
-### Suzano - SP
+**Ricardo Ribeiro Lopes **
+**19 anos**
+**Suzano - SP**
+**Desenvolvedor FullStack**
+- C# .Net
+- SqlServer, MySql e firebase
+- JavaScript
+- ReactJs e React Native
+- NodeJs
+- GraphQl
+- UI / UX
 
 <!--
 **RicardoRibeiro21/RicardoRibeiro21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
