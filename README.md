@@ -4,13 +4,12 @@
 
 **Desenvolvedor FullStack**
 
-- C# .Net, Java e PHP
+- C# .Net, Java e NodeJs
 - SqlServer, MySql e firebase
 - JavaScript e TypeScript
 - ReactJs e React Native
-- NodeJs
 - GraphQl
-- UI / UX
+- UI / UX - Pacote Adobe (PS, AI e XD)
 
 <!--
 **RicardoRibeiro21/RicardoRibeiro21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
