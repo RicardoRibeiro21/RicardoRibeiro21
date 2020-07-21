@@ -4,7 +4,7 @@
 
 **Desenvolvedor FullStack**
 
-- C# .Net
+- C# .Net, Java e PHP
 - SqlServer, MySql e firebase
 - JavaScript e TypeScript
 - ReactJs e React Native
