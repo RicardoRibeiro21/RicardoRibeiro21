@@ -1,8 +1,8 @@
 ### Seja bem-vindo! 👋
 
-**Ricardo Ribeiro Lopes, 21 anos, Suzano - SP (Brasil)**
+**Ricardo Ribeiro Lopes, 22 anos, Suzano - SP (Brasil)**
 
-**Desenvolvedor FullStack**
+**Desenvolvedor FullStack - Itaú**
 
 - C# .Net, Java e NodeJs
 - SqlServer, MySql e firebase
