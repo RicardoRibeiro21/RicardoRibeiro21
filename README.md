@@ -1,8 +1,8 @@
 ### Seja bem-vindo! 👋
 
-**Ricardo Ribeiro Lopes, 22 anos, Suzano - SP (Brasil)**
+**Ricardo Ribeiro Lopes, 23 anos, Suzano - SP (Brasil)**
 
-**Desenvolvedor FullStack - Itaú**
+**Desenvolvedor FullStack Pleno - Itaú**
 
 - C# .Net, Java e NodeJs
 - SqlServer, MySql e firebase
@@ -10,6 +10,7 @@
 - ReactJs e React Native
 - GraphQl
 - UI / UX - Pacote Adobe (PS, AI e XD)
+- AWS Cloud Practitioner ✅
 
 <!--
 **RicardoRibeiro21/RicardoRibeiro21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
