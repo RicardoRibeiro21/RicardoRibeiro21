@@ -5,11 +5,10 @@
 **Desenvolvedor FullStack Pleno - Itaú**
 
 - C# .Net, Java e NodeJs
-- SqlServer, MySql e firebase
+- SqlServer, MySql, firebase e DynamoDB
 - JavaScript e TypeScript
 - ReactJs e React Native
-- GraphQl
-- UI / UX - Pacote Adobe (PS, AI e XD)
+- UI / UX - Pacote Adobe (PS, AI e XD) e Figma
 - AWS Cloud Practitioner ✅
 
 <!--
